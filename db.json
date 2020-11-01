@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tasks": [
+    {
+      "Id": 1,
+      "Name": "typicode",
+      "Category": "Cat 1",
+      "Description": "Sample",
+      "CreatedAt":""
+    }
+  ],
+  "category": [
+    {
+      "Id": 1,
+      "Name": "typicode",
+      "Color": "#fff",
+    }
+  ]
+  
+}
